@@ -1,0 +1,2 @@
+-- Authors : Gerard Lozano & Carla Davesa
+-- Desenvolupament d’un programa per a verificar i avaluar partides de Butifarra
